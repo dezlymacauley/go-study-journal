@@ -1,5 +1,10 @@
 # Go Programming – Golang Course with Bonus Projects 
 
-https://youtu.be/un6ZyFkqFKo?t=1229
+Teacher: Lane Wagner
 
-20:29 / 9:32:46
+---
+
+https://youtu.be/un6ZyFkqFKo?t=2541
+45:06 / 9:32:46
+
+---

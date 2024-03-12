@@ -40,6 +40,15 @@ func main() {
 
 //-----------------------------------------------------------------------------
 
+// NOTE: What does the size of a type indicate?
+
+// E.g. float32
+// The 32 at the end means 32 bits
+// a byte is 8 bits
+// a nibble is 4 bits
+
+//-----------------------------------------------------------------------------
+
 // NOTE: How to declare a variable in Go
 
 // In Go, variables are declared using the keyword "var"
@@ -79,6 +88,15 @@ fmt.Printf(
 congrats := "happy birthday"
 fmt.Println(congrats)
 
+
+//-----------------------------------------------------------------------------
+
+// NOTE: How to declare constants in Go
+// You can't use the short assignment indicator with constants in Go
+
+// Constants are declared using the const keyword
+
+const currencyName = "Euro"
 
 //-----------------------------------------------------------------------------
 
